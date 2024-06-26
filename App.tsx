@@ -4,7 +4,7 @@ import {SafeAreaView, StyleSheet, Text} from 'react-native';
 function App(): React.JSX.Element {
   return (
     <SafeAreaView>
-      <Text> Hello ! </Text>
+      <Text> HAPPY NEW YEAR! </Text>
     </SafeAreaView>
   );
 }
